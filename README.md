@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # react-animals
 Stephen Grider's Modern React with Redux [2024 Update] Section 4
 # React + Vite
@@ -9,6 +8,4 @@ Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-=======
 This is a React Starter Project for use in Stephen Grider's courses on Udemy.
->>>>>>> 2453ecb (Update README.md)
