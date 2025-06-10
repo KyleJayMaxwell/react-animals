@@ -1,5 +1,6 @@
 # react-animals
 Stephen Grider's Modern React with Redux [2024 Update] Section 4
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
